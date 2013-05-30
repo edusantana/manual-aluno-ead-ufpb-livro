@@ -19,17 +19,7 @@
 
   <authorgroup>
     <author>
-      <firstname>Nome</firstname>
-      <surname>Sobrenome</surname>
-      <affiliation>
-        <jobtitle>Professor</jobtitle>
-        <orgname>Universidade Federal da Paraíba</orgname>
-      </affiliation>
-      <authorblurb>
-        <para>
-          Principal contribuidor do livro.
-        </para>
-      </authorblurb>
+      <firstname>Vários autores</firstname>
     </author>
   </authorgroup>
 
@@ -37,7 +27,7 @@
       <firstname>Eduardo</firstname>
       <surname>Medeiros</surname>
       <othername>Santana</othername>
-    <contrib>Editor</contrib>
+    <contrib>Organizador</contrib>
   </othercredit>
   
   <copyright>
